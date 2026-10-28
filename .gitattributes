@@ -1,0 +1,9 @@
+# Default behavior
+*.gif binary
+*.html linguist-vendored
+*.md linguist-documentation
+*.min.js linguist-generated
+*.svg text
+
+*.ts linguist-detectable
+Cargo.lock linguist-generated
