@@ -1,0 +1,6 @@
+build/
+.env
+.next/
+node_modules/
+*.tgz
+.env.local
